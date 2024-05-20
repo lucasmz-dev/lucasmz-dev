@@ -12,10 +12,12 @@ cefc93f6-5f92-4d13-9c4a-ea0274bdc8c1
 # Monero (XMR)
 
 You can also donate using the private and fungible cryptocurrency Monero. The good thing about it is the security and how it works everywhere and has no issues with location. I do not have wallets in any other cryptocurrencies as I don't see their point and they're really bad as currencies which makes only big donations worth it.
-If your Monero wallet client supports OpenAlias, you can simply type my domain, lucasmz.dev, into the address bar and send it directly. Otherwise, here's my wallet address:
+If your Monero wallet client supports OpenAlias, you can simply type my domain, `donations.lucasmz.dev`, into the address bar and send it directly. Otherwise, here's my wallet address:
 ```
-88gca7xkJNcDaJN9UjuKpAf6bbWxY6xSmFNYaCgyhyeeZgjgUh6dEnQ64AQUWq4NnkBamw3UrokqK1DsmuJJhhpxUvtZozb
+46ZFf7j7VMBPqYrDd716HpBMdorzmFo3iYvQUTHmPbBq2QD9GWvPELQJh2AWPA2xnheXCTMbpxVQxVZ8p3BzcnxMNswqoVD
 ```
+
+> It is possible to verify how much money has gotten into this wallet. I provide view keys, you can see them in `WALLET_TRANSPARENCY.md`, [here.](/WALLET_TRANSPARENCY.md)
 
 # LiberaPay
 
