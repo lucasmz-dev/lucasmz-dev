@@ -1,5 +1,6 @@
 If you want to donate for any reason, such as supporting a project with translations, here's what I accept:
 The donations option here, outside of Pix, are stuck to only be accessible from when I'm 18, as I might not be able to withdraw them into BRL until then.
+Monero is something I can use, for one thing or another, like donations to other people. I prefer it, over any others that are added here, except for Pix, really.
 
 # Pix
 
