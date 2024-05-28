@@ -12,6 +12,8 @@ cefc93f6-5f92-4d13-9c4a-ea0274bdc8c1
 
 # Monero (XMR)
 
+# Do not donate at the moment, PLEASE! I lost the private keys for this wallet. No one did, thankfully!
+
 You can also donate using the private and fungible cryptocurrency Monero. The good thing about it is the security and how it works everywhere and has no issues with location. I do not have wallets in any other cryptocurrencies as I don't see their point and they're really bad as currencies which makes only big donations worth it.
 If your Monero wallet client supports OpenAlias, you can simply type my domain, `donations.lucasmz.dev`, into the address bar and send it directly. Otherwise, here's my wallet address:
 ```
