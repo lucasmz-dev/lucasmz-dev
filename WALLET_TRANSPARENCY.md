@@ -5,9 +5,9 @@
 The necessary values for adding my wallet for viewing are:
 
 ```
-Public address: 46ZFf7j7VMBPqYrDd716HpBMdorzmFo3iYvQUTHmPbBq2QD9GWvPELQJh2AWPA2xnheXCTMbpxVQxVZ8p3BzcnxMNswqoVD
-View key: d8c951ce16689cc08ab4cda4888f60c51fb6f93d85a2d05710fa2753f1c7c90f
-Restore height: 3152953
+Public address: 42Fo6ZF6PXaU46wG4s1iSjTr2w1kvt6c7D5PRV8jRWThiXzPaHGk57sPVNpaqCKMqpDVFd6J3BEj2YZDVR4WdTtfQQxMnCy
+View key: 3da1c3791ba7af55ef85483846b2889d73b723f6472a38f678510ca3abaaab0b
+Restore height: 3159263
 ```
 
 Any other values are chosen by you, such as wallet name and password.
