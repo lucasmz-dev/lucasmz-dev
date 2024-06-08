@@ -19,8 +19,3 @@ If your Monero wallet client supports OpenAlias, you can simply type my domain, 
 ```
 
 > It is possible to verify how much money has gotten into this wallet. I provide view keys, you can see them in `WALLET_TRANSPARENCY.md`, [here.](/WALLET_TRANSPARENCY.md)
-
-# LiberaPay
-
-I also kind of have LiberaPay but I'm pretty sure it's not set up properly and I can't until I'm 18. Sorry. Here it is anyway:
-https://liberapay.com/lucasmz
