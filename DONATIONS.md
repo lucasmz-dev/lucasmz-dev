@@ -6,8 +6,8 @@ Monero is something I can use, for one thing or another, like donations to other
 
 Pix is a Brazilian payment method. It sends money more directly to me in a way I can actually spend it.
 My PIX key is:
-```
-cefc93f6-5f92-4d13-9c4a-ea0274bdc8c1
+```4b
+4d0bdb3f-4e04-4463-8a56-7adedefa9004
 ```
 
 # Monero (XMR)
