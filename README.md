@@ -10,7 +10,7 @@ I have so far notably contributed to:
   * [F-Droid](https://f-droid.org)
   * [Aurora Store](https://auroraoss.com)
   * [DivestOS apps](https://divestos.org/pages/our_apps)
-  * ... (more can be found in [Weblate](https://hosted.weblate.org/user/lucasmz/), and [Crowdin](https://crowdin.com/profile/lucasmz.dev))
+  * ... (more can be found in [Weblate](https://hosted.weblate.org/user/lucasmz/), [Crowdin](https://crowdin.com/profile/lucasmz.dev), and [in my tracker.](https://codeberg.org/lucasmz/translation-suggestions/issues))
 
 ## Suggestions
 
