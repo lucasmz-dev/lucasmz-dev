@@ -6,6 +6,9 @@ GitHub in certain instances can strip the signature, like specific merging metho
 
 My setup for the GPG signing key is also not the most secure because of the reasons above. Inputting a password every commit and sync is impractical, if I could sandbox it to VSCodium, then I'd do it.
 
+> [!WARNING]  
+> Timestamps can *NOT* be used to try and correlate what commits are valid or not. The timestamp can and will be forged easily in case of a leak. Consider any commits signed with an un-trusted key here to not be valid. The history is only here to document signing keys and why they were removed. 
+
 # History of Signing keys:
 
 1. SSH: SHA256: tS5oJdDXkrP5MIaS3BD/Qqvsp/aRnFrmUaE6JPQsI9E (22/09/2024, current)
