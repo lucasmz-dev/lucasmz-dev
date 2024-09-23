@@ -9,6 +9,5 @@ My setup for the GPG signing key is also not the most secure because of the reas
 I no longer have vigilante mode enabled, meaning my commits are not marked "Unverified" when there is no signature.
 
 # History of Signing keys:
-```
-22/09/2024: SSH: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIA8hJnFMDMmpr0J91g8FIAHI/9ep14yEdCgWUqn6Mj3K lucas@fedora
-```
+
+1. SSH: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIA8hJnFMDMmpr0J91g8FIAHI/9ep14yEdCgWUqn6Mj3K lucas@fedora (22/09/2024, current)
