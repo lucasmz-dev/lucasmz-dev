@@ -8,4 +8,4 @@ My setup for the GPG signing key is also not the most secure because of the reas
 
 # History of Signing keys:
 
-1. SSH: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIA8hJnFMDMmpr0J91g8FIAHI/9ep14yEdCgWUqn6Mj3K lucas@fedora (22/09/2024, current)
+1. SSH: SHA256: tS5oJdDXkrP5MIaS3BD/Qqvsp/aRnFrmUaE6JPQsI9E (22/09/2024, current)
