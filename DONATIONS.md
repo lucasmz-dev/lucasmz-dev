@@ -17,5 +17,3 @@ If your Monero wallet client supports OpenAlias, you can simply type my domain, 
 ```
 
 ```
-
-> It is possible to verify how much money has gotten into this wallet. I provide view keys, you can see them in `WALLET_TRANSPARENCY.md`, [here.](/WALLET_TRANSPARENCY.md)
