@@ -15,7 +15,7 @@ My PIX key is:
 You can also donate using the private and fungible cryptocurrency Monero. The good thing about it is the security and how it works everywhere and has no issues with location. I do not have wallets in any other cryptocurrencies as I don't see their point and they're really bad as currencies which makes only big donations worth it.
 If your Monero wallet client supports OpenAlias, you can simply type my domain, `donations.lucasmz.dev`, into the address bar and send it directly. Otherwise, here's my wallet address:
 ```
-42Fo6ZF6PXaU46wG4s1iSjTr2w1kvt6c7D5PRV8jRWThiXzPaHGk57sPVNpaqCKMqpDVFd6J3BEj2YZDVR4WdTtfQQxMnCy
+
 ```
 
 > It is possible to verify how much money has gotten into this wallet. I provide view keys, you can see them in `WALLET_TRANSPARENCY.md`, [here.](/WALLET_TRANSPARENCY.md)
