@@ -11,5 +11,5 @@ My Pix key is:
 # Monero (XMR)
 
 ```
-8BEycrY8v9HdjbXhCxEpatAAaMtbXZMjjEQR3cGZ1wT8RMtGrwj2hG9KWssRPYu6Gz8v9bJwhu1d3SrFXDttRaVN2z2z2C2
+
 ```
