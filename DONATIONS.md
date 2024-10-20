@@ -13,3 +13,15 @@ My Pix key is:
 ```
 85fAZs5WjqdDUWp5hk8iaSJbiLw3N3vxKbLE9EcWR8dZPFmNzSfQAgzRpoeHeujj7V8LS9QzZWrgjHvzCJhBBL7112kDx9N
 ```
+
+# Bitcoin (BTC)
+
+```
+bc1ppg3sdt9ct8rdvy4jkfq94rux52q85vx6a28wfge9lg26eqd0xfyqrq3smw
+```
+
+# Litecoin (LTC)
+
+```
+ltc1q7dxrpycweprv32pyrjsdar2wskudnfpk7maucq
+```
