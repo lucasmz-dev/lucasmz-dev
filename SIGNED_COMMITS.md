@@ -9,5 +9,6 @@ Git forges in certain instances can strip the signature, like specific merging m
 
 # History of signing keys:
 
-2. SSH: SHA256:6khwOW75xeRREzEwBu1cmSn4uZrN09bumzvjuGU9B4U (2024/10/25, current)
+3. SSH: 256 SHA256:rnWtuiPcAp0fhuIw/pIDQJNmRcy5LWoD6V8k8YP6xvY (ED25519) (2024/10/29, current)
+2. SSH: SHA256:6khwOW75xeRREzEwBu1cmSn4uZrN09bumzvjuGU9B4U (2024/10/25)
 1. SSH: SHA256:tS5oJdDXkrP5MIaS3BD/Qqvsp/aRnFrmUaE6JPQsI9E (2024/09/22)
