@@ -1,6 +1,5 @@
-# Translation Work
-
-I am a Brazilian Portuguese translator, I translate mostly anything Android and FOSS. Notable mentions are:
+# Translation
+I translate many FOSS Android apps/OSes to PT-BR, making many of them accessible to Brazilians.
 
   * [CalyxOS](https://calyxos.org)
   * [LineageOS](https://lineageos.org)
@@ -9,23 +8,24 @@ I am a Brazilian Portuguese translator, I translate mostly anything Android and 
   * [F-Droid](https://f-droid.org)
   * [Aurora Store](https://auroraoss.com)
   * [DivestOS](https://divestos.org/pages/our_apps)
-  * ... (more can be found [in my tracker.](https://codeberg.org/lucasmz/translation-suggestions/issues))
+  * [NeoStumbler](https://github.com/mjaakko/NeoStumbler)
 
-## Signed Commits
-There is no warranty or any guarantee when it comes to signed commits. Check [SIGNED_COMMITS.md](/SIGNED_COMMITS.md).
+(and many more [in my tracker.](https://codeberg.org/lucasmz/translation-suggestions/issues))
 
 ## Suggestions
+If you want me to look into translations for a certain project, yours, or someone else's, let me know by creating an issue [in my tracker](https://codeberg.org/lucasmz/translation-suggestions/issues). I am always looking into new things.
 
-If you want me to look into translations for a certain project, yours, or someone else's, let me know by creating an issue [in my tracker](https://codeberg.org/lucasmz/translation-suggestions/issues).
+## Communication
+You can find ways to contact me in [lucasmz.dev](https://lucasmz.dev).
 
 ## Donations
-
-Oh hey, thank you!
-
-If you'd like to donate, instructions are available at [DONATIONS.md](/DONATIONS.md).
+Oh hey, thank you! You can find out what I can take in [DONATIONS.md](/DONATIONS.md)!
 
 ## Other forges:
 
   * [Codeberg](https://codeberg.org/lucasmz)
   * [GitHub](https://github.com/lucasmz-dev)
   * [GitLab](https://gitlab.com/lucasmz)
+
+## Signatures
+There is no warranty or any guarantee when it comes to signed commits. They're just an extra layer of verification. Check [SIGNED_COMMITS.md](/SIGNED_COMMITS.md).
