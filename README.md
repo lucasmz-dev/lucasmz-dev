@@ -23,3 +23,9 @@ If you want me to look into translations for a certain project, yours, or someon
 Oh hey, thank you!
 
 If you'd like to donate, instructions are available at [DONATIONS.md](/DONATIONS.md).
+
+## Other forges:
+
+  * [Codeberg](https://codeberg.org/lucasmz)
+  * [GitHub](https://github.com/lucasmz-dev)
+  * [GitLab](https://gitlab.com/lucasmz)
