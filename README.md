@@ -19,7 +19,7 @@ If you want me to look into translations for a certain project, yours, or someon
 You can find ways to contact me in [lucasmz.dev](https://lucasmz.dev).
 
 ## Donations
-Oh hey, thank you! You can find out what I can take in [DONATIONS.md](/DONATIONS.md)!
+Oh hey, thank you! You can find out what I can take in [DONATIONS.md](DONATIONS.md)!
 
 ## Other forges:
 
@@ -28,4 +28,4 @@ Oh hey, thank you! You can find out what I can take in [DONATIONS.md](/DONATIONS
   * [GitLab](https://gitlab.com/lucasmz)
 
 ## Signatures
-There is no warranty or any guarantee when it comes to signed commits. They're just an extra layer of verification. Check [SIGNED_COMMITS.md](/SIGNED_COMMITS.md).
+There is no warranty or any guarantee when it comes to signed commits. They're just an extra layer of verification. Check [SIGNED_COMMITS.md](SIGNED_COMMITS.md).
