@@ -26,6 +26,7 @@ Oh hey, thank you! You can find out what I can take in [DONATIONS.md](DONATIONS.
   * [Codeberg](https://codeberg.org/lucasmz)
   * [GitHub](https://github.com/lucasmz-dev)
   * [GitLab](https://gitlab.com/lucasmz)
+  * [git.gay](https://git.gay/LucasMZ)
 
 ## Signatures
 There is no warranty or any guarantee when it comes to signed commits. They're just an extra layer of verification. Check [SIGNED_COMMITS.md](SIGNED_COMMITS.md).
