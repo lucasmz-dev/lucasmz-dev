@@ -25,7 +25,7 @@ If you want me to look into translations for a certain project, yours, or someon
 ## Donations
 Oh hey, thank you! You can find out what I can take in [DONATIONS.md](DONATIONS.md)!
 
-## Other forges:
+## Other accounts
 You can find other accounts of mine, including on forges, with [Keyoxide.](https://keyoxide.org) My profile is aspe:keyoxide.org:SL7LPAAVMRYRHBFZUSPO7MZKQI.
 
 ## Signatures
