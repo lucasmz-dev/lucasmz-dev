@@ -26,7 +26,7 @@ If you want me to look into translations for a certain project, yours, or someon
 Oh hey, thank you! You can find out what I can take in [DONATIONS.md](DONATIONS.md)!
 
 ## Other accounts
-You can find other accounts of mine, including on forges, with [Keyoxide.](https://keyoxide.org) My profile is [aspe:keyoxide.org:SL7LPAAVMRYRHBFZUSPO7MZKQI](https://keyoxide.org/aspe:keyoxide.org:SL7LPAAVMRYRHBFZUSPO7MZKQI).
+You can find other accounts of mine, including on forges, with [Keyoxide.](https://keyoxide.org) My profile is [aspe:keyoxide.org:ILQQJ6G5YJXGFKUHIUXWQL2S3A](https://keyoxide.org/aspe:keyoxide.org:ILQQJ6G5YJXGFKUHIUXWQL2S3A).
 
 ## Signatures
 There is no warranty or any guarantee when it comes to signed commits. They're just an extra layer of verification. Check [SIGNED_COMMITS.md](SIGNED_COMMITS.md).
