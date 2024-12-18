@@ -16,7 +16,7 @@ I translate many FOSS Android apps/OSes to PT-BR, making many of them accessible
 If you want me to look into translations for a certain project, yours, or someone else's, let me know by creating an issue [in my tracker](https://codeberg.org/lucasmz/translation-suggestions/issues). I am always looking into new things.
 
 ## Getting in touch
-* [XMPP](xmpp:lucasmz@conversations.im?omemo-sid-1816914948=79dd479374a1afa3e86e5dcf868443f82256b89229960bac9f27185c74b75e33;omemo-sid-127629939=cd6fce60a7c0cb134e649c9115a07c5cb4e899d07796cb031e72df3224c84901)
+* [XMPP](xmpp:lucasmz@conversations.im?omemo-sid-1816914948=79dd479374a1afa3e86e5dcf868443f82256b89229960bac9f27185c74b75e33;omemo-sid-1375863833=77cc064aa195af9802cd4c44b62df8d1b8cca53fc6c548c9252d34b76fd82f3a)
 * [Signal](https://signal.me/#eu/Vg5FoFZ1pxkbrlAj71Mhzf6tTCTVVzo64l-EAkPTXAE3c15ulS1P67BByq8p9rrI)
 * [Matrix](https://matrix.to/#/@lucasmz:tchncs.de)
 
