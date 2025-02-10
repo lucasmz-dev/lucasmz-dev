@@ -9,7 +9,7 @@ I translate many FOSS Android apps/OSes to PT-BR, making many of them accessible
   * [CalyxOS](https://calyxos.org)
   * [LineageOS](https://lineageos.org)
   * [microG](https://microg.org)
-  * [SeedVault](https://github.com/seedvault-app/seedvault)
+  * [Seedvault](https://github.com/seedvault-app/seedvault)
   * [F-Droid](https://f-droid.org)
   * [Aurora Store](https://auroraoss.com)
   * [NeoStumbler](https://github.com/mjaakko/NeoStumbler)
