@@ -4,7 +4,7 @@ I previously contributed to the Roblox OSS community, with things such as [FastS
 Nowadays, I'm more of a user and passive contributor. I contributed to many projects with localization, bug reports, security observations, etc.
 
 ## Translation
-I translate many FOSS Android apps/OSes to PT-BR, making many of them accessible to Brazilians.
+I translate many FOSS Android apps/OSes to PT-BR, making many of them accessible to Brazil.
 
   * [CalyxOS](https://calyxos.org)
   * [LineageOS](https://lineageos.org)
