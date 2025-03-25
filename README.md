@@ -6,15 +6,21 @@ Nowadays, I'm more of a user and passive contributor. I contributed to many proj
 ## Translation
 I translate many FOSS Android apps/OSes to PT-BR, making many of them accessible to Brazil, notable examples are:
 
-  * [CalyxOS](https://calyxos.org)
-  * [LineageOS](https://lineageos.org)
-  * [microG](https://microg.org)
-  * [Seedvault](https://github.com/seedvault-app/seedvault)
-  * [F-Droid](https://f-droid.org)
-  * [Aurora Store](https://auroraoss.com)
-  * [NeoStumbler](https://github.com/mjaakko/NeoStumbler)
+* [CalyxOS](https://calyxos.org)
+* [LineageOS](https://lineageos.org)
+* [microG](https://microg.org)
+* [Seedvault](https://github.com/seedvault-app/seedvault)
+* [F-Droid](https://f-droid.org)
+* [Aurora Store](https://auroraoss.com)
+* [NeoStumbler](https://github.com/mjaakko/NeoStumbler)
 
-(and more [in my tracker](https://codeberg.org/lucasmz/translation-suggestions/issues).)
+I also help manage Weblate for a few projects that needed help getting it set up initially.
+
+* [InnerTune](https://hosted.weblate.org/engage/innertune)
+* [OuterTune](https://hosted.weblate.org/engage/outertune)
+* [GeoShare](https://hosted.weblate.org/engage/geoshare)
+* [monerujo](https://hosted.weblate.org/engage/monerujo)
+* [Fennec F-Droid](https://translate.codeberg.org/engage/fennec/)
 
 ## Getting in touch
 * [XMPP](xmpp:lucasmz@conversations.im?omemo-sid-1816914948=79dd479374a1afa3e86e5dcf868443f82256b89229960bac9f27185c74b75e33;omemo-sid-2107531358=915fb36445dc132224e1f2642e4928eacc355b09814214f36efa96f0999a216c)
