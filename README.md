@@ -4,10 +4,10 @@ I previously contributed to the Roblox OSS community, with things such as [FastS
 Nowadays, I'm more of a user and passive contributor. I contributed to many projects with localization, bug reports, security observations, etc.
 
 ## Translation
-I translate many FOSS Android apps/OSes to PT-BR, making many of them accessible to Brazil, notable examples are:
+I translate a lot of FOSS Android software, making many of it accessible to Brazil.
 
 * [CalyxOS](https://calyxos.org)
-* [LineageOS](https://lineageos.org)
+* [LineageOS](https://lineageos.org) (proofreader)
 * [microG](https://microg.org)
 * [Seedvault](https://github.com/seedvault-app/seedvault)
 * [F-Droid](https://f-droid.org)
@@ -21,6 +21,10 @@ I also help manage Weblate for a few projects that needed help getting it set up
 * [GeoShare](https://hosted.weblate.org/engage/geoshare)
 * [monerujo](https://hosted.weblate.org/engage/monerujo)
 * [Fennec F-Droid](https://translate.codeberg.org/engage/fennec/)
+
+> [!TIP]
+> Consider contributing yourself! There's actually not enough people for most languages, Brazilian Portuguese with has 205M speakers wasn't > in a good state, so what about your language? You'll also learn more about the software you translate and ignoring that, also make the
+> app easier to navigate, even for you.
 
 ## Getting in touch
 * [XMPP](xmpp:lucasmz@conversations.im?omemo-sid-1816914948=79dd479374a1afa3e86e5dcf868443f82256b89229960bac9f27185c74b75e33;omemo-sid-2107531358=915fb36445dc132224e1f2642e4928eacc355b09814214f36efa96f0999a216c)
