@@ -23,7 +23,8 @@ I also help manage Weblate for a few projects that needed help getting it set up
 * [Fennec F-Droid](https://translate.codeberg.org/engage/fennec/)
 
 > [!TIP]
-> Consider contributing yourself! There's actually not enough people for most languages, Brazilian Portuguese with has 205M speakers wasn't > in a good state, so what about your language? You'll also learn more about the software you translate and ignoring that, also make the
+> Consider contributing yourself! There's actually not enough people for most languages, Brazilian Portuguese which has 205M speakers wasn't
+> in a good state, so what about your language? You'll also learn more about the software you translate and ignoring that, also make the
 > app easier to navigate, even for you.
 
 ## Getting in touch
