@@ -34,7 +34,7 @@ I also help manage Weblate for a few projects that needed help getting it set up
 *None* of these provide *anonymous* but *do* provide *private* conversations. Matrix and XMPP should be considerably anonymous when used with Tor. If you need anonymous communication for whatever reason, let me know and we can upgrade to that.
 
 ## Donations
-Oh hey, thank you! Check out [DONATIONS](DONATIONS.md)!
+Thank you! Check out [DONATIONS](DONATIONS.md)!
 
 ## Other accounts
 You can find other accounts of mine, including on forges, with [Keyoxide.](https://keyoxide.org) My profile is [aspe:keyoxide.org:ILQQJ6G5YJXGFKUHIUXWQL2S3A](https://keyoxide.org/aspe:keyoxide.org:ILQQJ6G5YJXGFKUHIUXWQL2S3A).
