@@ -31,7 +31,6 @@ I also help manage Weblate for a few projects that needed help getting it set up
 * [XMPP](xmpp:lucasmz@conversations.im?omemo-sid-1816914948=79dd479374a1afa3e86e5dcf868443f82256b89229960bac9f27185c74b75e33;omemo-sid-2107531358=915fb36445dc132224e1f2642e4928eacc355b09814214f36efa96f0999a216c)
 * [Signal](https://signal.me/#eu/Vg5FoFZ1pxkbrlAj71Mhzf6tTCTVVzo64l-EAkPTXAE3c15ulS1P67BByq8p9rrI)
 * [Matrix](https://matrix.to/#/@lucasmz:catgirl.cloud)
-* [SimpleX](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FUkMFNAXLXeAAe0beCa4w6X_zp18PwxSaSjY17BKUGXQ%3D%40smp12.simplex.im%2FjMAJvAVoo0ARhRIfWMvLZkGiS-OBcJ3p%23%2F%3Fv%3D1-4%26dh%3DMCowBQYDK2VuAyEARLYh_zjYIgNB7JeIzsy7wiE5_PWOVDeTxQbuoswJpTs%253D%26q%3Dc%26srv%3Die42b5weq7zdkghocs3mgxdjeuycheeqqmksntj57rmejagmg4eor5yd.onion)
 
 ## Donations
 Thank you! Check out [DONATIONS](DONATIONS.md)!
