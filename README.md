@@ -28,7 +28,7 @@ I also help manage Weblate for a few projects that needed help getting it set up
 * [Fennec F-Droid](https://translate.codeberg.org/engage/fennec/)
 
 ## Getting in touch
-* [XMPP](xmpp:lucasmz@conversations.im?omemo-sid-1816914948=79dd479374a1afa3e86e5dcf868443f82256b89229960bac9f27185c74b75e33;omemo-sid-2107531358=915fb36445dc132224e1f2642e4928eacc355b09814214f36efa96f0999a216c)
+* [XMPP](xmpp:lucasmz@conversations.im?omemo-sid-1816914948=79dd479374a1afa3e86e5dcf868443f82256b89229960bac9f27185c74b75e33;omemo-sid-2020489995=13925ec0a486aaf8980cc737e091ccb7a056174b723e799b3664243240129d68)
 * [Signal](https://signal.me/#eu/Vg5FoFZ1pxkbrlAj71Mhzf6tTCTVVzo64l-EAkPTXAE3c15ulS1P67BByq8p9rrI)
 * [Matrix](https://matrix.to/#/@lucasmz:catgirl.cloud)
 
