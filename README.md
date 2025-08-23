@@ -46,7 +46,7 @@ I also help manage Weblate for a few projects that needed help getting it set up
 - [WiFiAnalyzer](https://hosted.weblate.org/engage/wifianalyzer)
 
 ## Getting in touch
-- [XMPP](xmpp:lucasmz@conversations.im?omemo-sid-1816914948=79dd479374a1afa3e86e5dcf868443f82256b89229960bac9f27185c74b75e33;omemo-sid-2020489995=13925ec0a486aaf8980cc737e091ccb7a056174b723e799b3664243240129d68)
+- [Jabber AKA XMPP](xmpp:lucasmz@xmpp.eco.br?omemo-sid-1429202661=8e288e9179004bd999c12b31e51fde3327923141baf05597ce3373075358915b;omemo-sid-998107191=a93bc4906f284c5f13aff7341ec31358f7c0416aa7a6aff16994e1e54a7f8919)
 - [Signal](https://signal.me/#eu/UFYUFWCLBEiMJU4xgYt6lHqKkDLhBv-cgTbGqOw_9q0NIINL6QVJ7oDcbO0lTjqY)
 - [Matrix](https://matrix.to/#/@lucasmz:catgirl.cloud)
 
