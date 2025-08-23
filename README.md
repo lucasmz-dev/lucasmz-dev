@@ -1,10 +1,9 @@
 # Who am I?
-Hello! I take an interest in many things, such as AOSP, Linux, security, privacy, IPv6, the FOSS ecosystem, localization, and much more.
-I previously contributed to the Roblox OSS community, with things such as [FastSignal](https://github.com/rblxutils/fastsignal).
+Hello! I take an interest in many things, such as free and open source software, digital security, privacy, adoption of IPv6, and other stuff from time to time.
 Nowadays, I'm more of a user and passive contributor. I contributed to many projects with localization, bug reports, security observations, etc.
 
 ## Translation
-I translate a lot of FOSS Android software, making many of it accessible to Brazil.
+I translate a lot of free Android software, making many of it accessible to Brazil.
 
 > [!TIP]
 > Consider contributing yourself! There's actually *not* enough people for most languages, Brazilian Portuguese which has 205M speakers
