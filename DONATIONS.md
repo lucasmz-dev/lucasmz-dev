@@ -1,9 +1,6 @@
 # Donating
 It is possible to donate through multiple methods.
 
-> [!WARNING]
-> Cryptocurrencies can not be converted into my local currency easily. I am still a minor, they'll be stored securely until I'm at least 18. They may be kept for longer as investments or for security.
-
 ## Pix
 
 > [!NOTE]
