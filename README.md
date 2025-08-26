@@ -50,9 +50,6 @@ I also help manage Weblate for a few projects that needed help getting it set up
 - [Signal](https://signal.me/#eu/UFYUFWCLBEiMJU4xgYt6lHqKkDLhBv-cgTbGqOw_9q0NIINL6QVJ7oDcbO0lTjqY)
 - [Matrix](https://matrix.to/#/@lucasmz:catgirl.cloud)
 
-## Donations
-Thank you! Check out [DONATIONS](DONATIONS.md)!
-
 ## Other accounts
 You can find other accounts of mine, including on forges, with [Keyoxide.](https://keyoxide.org) My profile is [aspe:keyoxide.org:ILQQJ6G5YJXGFKUHIUXWQL2S3A](https://keyoxide.org/aspe:keyoxide.org:ILQQJ6G5YJXGFKUHIUXWQL2S3A).
 
