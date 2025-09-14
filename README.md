@@ -24,10 +24,10 @@ I translate a lot of free Android software, making many of it accessible to Braz
 - [FluffyChat](https://fluffychat.im)
 - [Dino](https://dino.im)
 - [FMD](https://fmd-foss.org)
-- [Syncthing-Fork](https://github.com/Catfriend1/syncthing-android) _(pending release)_
+- [Syncthing-Fork](https://github.com/Catfriend1/syncthing-android)
 - [Audile](https://github.com/aleksey-saenko/MusicRecognizer)
 - [OpenRGB](https://openrgb.org) _(pending release)_
-- [uBlock Origin](https://github.com/gorhill/uBlock) _(pending release)_
+- [uBlock Origin](https://github.com/gorhill/uBlock)
 - [uBlacklist](https://ublacklist.github.io/)
 - [LogFox](https://github.com/F0x1d/LogFox) _(pending release)_
 - [BtRemote](https://gitlab.com/Atharok/BtRemote)
