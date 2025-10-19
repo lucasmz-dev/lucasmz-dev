@@ -29,7 +29,6 @@ I translate a lot of free Android software, making many of it accessible to Braz
 - [OpenRGB](https://openrgb.org) _(pending release)_
 - [uBlock Origin](https://github.com/gorhill/uBlock)
 - [uBlacklist](https://ublacklist.github.io/)
-- [LogFox](https://github.com/F0x1d/LogFox) _(pending release)_
 - [BtRemote](https://gitlab.com/Atharok/BtRemote)
 - [Flatseal](https://github.com/tchx84/Flatseal)
 - Many others that I forgot about! And even more where I only fixed a few glaring things.
