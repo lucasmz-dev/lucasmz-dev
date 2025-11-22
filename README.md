@@ -31,6 +31,7 @@ I translate a lot of free Android software, making many of it accessible to Braz
 - [uBlacklist](https://ublacklist.github.io/)
 - [BtRemote](https://gitlab.com/Atharok/BtRemote)
 - [Flatseal](https://github.com/tchx84/Flatseal)
+- [Bitwarden](https://bitwarden.com) _(big WIP)_
 - Many others that I forgot about! And even more where I only fixed a few glaring things.
 
 I also help manage Weblate for a few projects that needed help getting it set up initially.
