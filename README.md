@@ -17,7 +17,7 @@ I translate a lot of free Android software, making many of it accessible to Braz
 - [F-Droid](https://f-droid.org)
 - [Aurora Store](https://auroraoss.com)
 - [NeoStumbler](https://github.com/mjaakko/NeoStumbler)
-- [Breezy Weather](https://github.com/breezy-weather/breezy-weather) _(pending release)_
+- [Breezy Weather](https://github.com/breezy-weather/breezy-weather)
 - [Plexus App](https://github.com/techlore/Plexus-app)
 - [FUTO Keyboard](https://keyboard.futo.org)
 - [HeliBoard](https://github.com/Helium314/HeliBoard)
