@@ -15,7 +15,7 @@ I translate a lot of free Android software, making many of it accessible to Braz
 - [Seedvault](https://github.com/seedvault-app/seedvault)
 - [microG](https://microg.org)
 - [F-Droid](https://f-droid.org)
-- [Bitwarden](https://bitwarden.com) _(proofreader, pending release)_
+- [Bitwarden](https://bitwarden.com) _(proofreader)_
 - [Aurora Store](https://auroraoss.com)
 - [NeoStumbler](https://github.com/mjaakko/NeoStumbler)
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather)
