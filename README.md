@@ -51,7 +51,7 @@ I also help manage Weblate for a few projects that needed help getting it set up
 - [Matrix](https://matrix.to/#/@lucasmz:catgirl.cloud)
 
 ## Other accounts
-You can find other accounts of mine, including on forges, with [Keyoxide.](https://keyoxide.org) My profile is [aspe:keyoxide.org:ILQQJ6G5YJXGFKUHIUXWQL2S3A](https://keyoxide.org/aspe:keyoxide.org:ILQQJ6G5YJXGFKUHIUXWQL2S3A).
+You can find other accounts of mine, including on forges, with [Keyoxide.](https://keyoxide.org) My profile is [aspe:keyoxide.org:F3T5HMOO6GXRPAIZ2Q26OPYOKE](https://keyoxide.org/aspe%3Akeyoxide.org%3AF3T5HMOO6GXRPAIZ2Q26OPYOKE).
 
 ## Signatures
 There is no warranty or any guarantee when it comes to signed commits. They're just an extra layer of verification. Check out [SIGNED_COMMITS](SIGNED_COMMITS.md).
