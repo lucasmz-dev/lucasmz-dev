@@ -46,7 +46,7 @@ I also help manage Weblate for a few projects that needed help getting it set up
 - [WiFiAnalyzer](https://hosted.weblate.org/engage/wifianalyzer)
 
 ## Getting in touch
-- [XMPP](xmpp:lucasmz@xmpp.eco.br?omemo-sid-1429202661=8e288e9179004bd999c12b31e51fde3327923141baf05597ce3373075358915b;omemo-sid-2067114578=9ee8f1d45d5b8603ba72001b68a4966b48e1c3754727664ce4d130f61b4b3378;omemo-sid-1868411375=88c7f666351a5b39c3585badc89d120728a75a002da9a89c3ec610b210c0ad75) _USE A PROPER E2EE CLIENT! AVOID MOVIM. I WILL NOT reply to unencrypted messages._
+- [XMPP](xmpp:lucasmz@xmpp.eco.br?omemo-sid-1429202661=8e288e9179004bd999c12b31e51fde3327923141baf05597ce3373075358915b;omemo-sid-2067114578=9ee8f1d45d5b8603ba72001b68a4966b48e1c3754727664ce4d130f61b4b3378;omemo-sid-1341632776=3192512e5012983770be0f58fa27687736a5e6aafb1c5fdd2052112d6fcc3507) _USE A PROPER E2EE CLIENT! AVOID MOVIM. I WILL NOT reply to unencrypted messages._
 - [Signal](https://signal.me/#eu/UFYUFWCLBEiMJU4xgYt6lHqKkDLhBv-cgTbGqOw_9q0NIINL6QVJ7oDcbO0lTjqY)
 - [Matrix](https://matrix.to/#/@lucasmz:catgirl.cloud)
 
